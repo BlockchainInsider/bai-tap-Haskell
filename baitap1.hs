@@ -1,0 +1,1 @@
+doubleInteger a = a*2
